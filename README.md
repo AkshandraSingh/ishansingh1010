@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! My Name is Ishan Singh and I am belogs to Indore City.<br>I am Skilled in HTML , CSS and JavaScript and I have a Good <br>knowledge of Python and MongoDB Data Base . Currently I am<br>Learning Node JS and I also Create a My 2 Projects Review Rating<br>and Stock Manager   
+Hello! My Name is Ishan Singh and I am belogs to Indore City.<br>I am Skilled in HTML , CSS and JavaScript and I have a Good <br>knowledge of Python and MongoDB Data Base . Currently I am<br>Learning Node JS and I also Create a My First Project Review Rating<br> and 2 Full Stack Project Motivation-Reminder and Login-Page  
 
 
 ## 🌐 Socials:
