@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I am Ishan Singh . I am backend developer recently I <br>learn Nodejs and I also create 3 projects on it Review rating<br>,Employee tracking system ,Blog Application and Expense Tracker. I am skilled in <br>html , css , JavaScript and Nodejs and I also have good <br>knowledge of python and MongoDB data base . #proDeveloper
+Hello! I am Ishan Singh . I am backend developer recently I <br>learn Nodejs and I also create 4 projects on it Review rating<br>,Employee tracking system ,Blog Application and Expense Tracker. I am skilled in <br>html , css , JavaScript and Nodejs and I also have good <br>knowledge of python and MongoDB data base . #proDeveloper
 
 
 ## 🌐 Socials:
