@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Ishan Singh, a backend developer who loves working on open-source projects. 🚀
+Hi there! I'm Ishan Singh, a Full Stack developer who loves working on open-source projects. 🚀
 
 I've recently dived into the world of Node.js and created some cool stuff:
 
