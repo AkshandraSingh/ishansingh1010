@@ -4,7 +4,7 @@ Hey there! I'm Ishan Singh, your enthusiastic Full Stack developer, with a burni
 
 🔥 I've been on an exhilarating journey into the world of Node.js, and I've conjured up some mind-blowing projects:
 
-1. **Review Rating:** A platform for sharing and discovering insightful reviews.
+1. **Virtual Assistant: An innovative voice-powered assistant that brings convenience to your fingertips.
 2. **Employee Tracking System:** Your go-to solution for effortless employee management.
 3. **LinkUp Social Media Platform:** Connect, share, and engage with your online community.
 4. **Expense Tracker:** Keep a close eye on your finances with this nifty tool.
