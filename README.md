@@ -2,7 +2,7 @@
 
 Hey there! I'm Ishan Singh, your enthusiastic Full Stack developer, with a burning passion for open-source projects. 🌟
 
-🔥 I've been on an exhilarating journey into the world of Node.js, and I've conjured up some mind-blowing projects:
+🔥 I've been on an exhilarating journey into the world of coding, and I've conjured up some mind-blowing projects:
 
 1. **Virtual Assistant:** An innovative voice-powered assistant that brings convenience to your fingertips.
 2. **Employee Tracking System:** Your go-to solution for effortless employee management.
@@ -13,10 +13,8 @@ Hey there! I'm Ishan Singh, your enthusiastic Full Stack developer, with a burni
 
 But there's a surprise! 🌟 I've crafted something truly exceptional - "simple-string-manipulation." It's a remarkable tool that makes playing with text an absolute breeze. Dive into the README.md file in my repository to discover more about it.
 
-So, how about joining me on this thrilling developer's odyssey? Together, we'll craft some seriously cool software! 🌐 #proDeveloper
-
 ## 🌐 Connect with Me:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/IshanSingh_44) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/IshanSingh_44)
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
