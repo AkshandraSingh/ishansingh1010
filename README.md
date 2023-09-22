@@ -47,7 +47,7 @@ But here's the kicker! 🌟 I've crafted something truly exceptional - "simple-s
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;I'm+Pro Developer">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=26&duration=4993&pause=1000&color=6295F7&width=435&lines=Thanks+for+visiting+%E2%9C%8C%F0%9F%8F%BB;Thanks+for+your+Time+;I'm+Pro+Developer" alt="Typing SVG" />
 </h3>
 
 <br/>
