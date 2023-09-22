@@ -20,8 +20,6 @@ But here's the kicker! 🌟 I've crafted something truly exceptional - "simple-s
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishansingh1010&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ishansingh1010&theme=dark&hide_border=false)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishansingh1010&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
