@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ishan+Singh!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Ishan+Singh!;" />
 </h1>
 
 <h3 align="center">Welcome to Ishan Singh's GitHub - Where Code Meets Innovation! 🚀</h3>
@@ -13,7 +13,7 @@
 - **Virtual Assistant:** An innovative voice-powered companion for ultimate convenience.
 - **Employee Tracking System:** Your go-to solution for effortless employee management.
 - **LinkUp Social Media Platform:** Connect, share, and engage with your online community like never before.
-- **Expense Tracker:** Keep a watchful eye on your finances with this nifty tool.
+- **Library Management System:** Simplify library operations with user-friendly features for users and administrators.
 
 💻 My coding expertise knows no bounds, ranging from the fundamentals like HTML, CSS, JavaScript, and Node.js to mastering Python and MongoDB.
 
