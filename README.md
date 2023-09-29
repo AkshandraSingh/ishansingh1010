@@ -26,7 +26,7 @@ But here's the kicker! 🌟 I've crafted something truly exceptional - "simple-s
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,mongodb,postman,nodejs,javascript,html,css,vscode,express" />
+    <img src="https://skillicons.dev/icons?i=git,github,mongodb,postman,nodejs,javascript,html,css,vscode,express,electron" />
 </div>
 
 <br/>
