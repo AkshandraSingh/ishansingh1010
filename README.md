@@ -17,7 +17,7 @@
 
 💻 My coding expertise knows no bounds, ranging from the fundamentals like HTML, CSS, JavaScript, and Node.js to mastering Python and MongoDB.
 
-But here's the kicker! 🌟 I've crafted something truly exceptional - "simple-string-manipulation." It's a remarkable tool that makes playing with text an absolute breeze. Dive into the README.md file in my repository to discover more about it.
+But here's the kicker! 🌟 I've crafted something truly exceptional - "RandomizeMe." It's a remarkable tool Node.js module for generating exciting random data. Whether you're testing, prototyping, or just in the mood for some random fun, we've got you covered!
 
  </div>
 
