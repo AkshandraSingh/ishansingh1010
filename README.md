@@ -19,10 +19,10 @@
 
 But here's the kicker! 🌟 I've crafted something truly exceptional - "RandomizeMe." It's a remarkable tool Node.js module for generating exciting random data. Whether you're testing, prototyping, or just in the mood for some random fun, we've got you covered!
 
- </div>
+</div>
 
- <hr/>
- 
+<hr/>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -51,3 +51,8 @@ But here's the kicker! 🌟 I've crafted something truly exceptional - "Randomiz
 </h3>
 
 <br/>
+
+<!-- Buy Me a Coffee Button -->
+<p align="center">
+  <a href="YOUR_BMC_LINK" target="_blank"><img src="https://www.buymeacoffee.com/ishansingh1010" alt="Buy Me a Coffee" height="40" width="170"></a>
+</p>
