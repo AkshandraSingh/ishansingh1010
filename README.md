@@ -47,5 +47,5 @@ But here's the kicker! 🌟 I've crafted something truly exceptional - "Randomiz
 <hr/>
 
 <p align="center">
-  <a href="YOUR_BMC_LINK" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="40" width="170"></a>
+  <a href="buymeacoffee.com/ishansingh1010" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="40" width="170"></a>
 </p>
