@@ -46,13 +46,6 @@ But here's the kicker! 🌟 I've crafted something truly exceptional - "Randomiz
 
 <hr/>
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=26&duration=4993&pause=1000&color=6295F7&width=435&lines=Thanks+for+visiting+%E2%9C%8C%F0%9F%8F%BB;Thanks+for+your+Time+;I'm+Pro+Developer" alt="Typing SVG" />
-</h3>
-
-<br/>
-
-<!-- Buy Me a Coffee Button -->
 <p align="center">
-  <a href="YOUR_BMC_LINK" target="_blank"><img src="https://www.buymeacoffee.com/ishansingh1010" alt="Buy Me a Coffee" height="40" width="170"></a>
+  <a href="YOUR_BMC_LINK" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="40" width="170"></a>
 </p>
